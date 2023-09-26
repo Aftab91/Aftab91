@@ -10,7 +10,7 @@
 
 ### About Me:
 - 💻 Software Engineer at [@Accenture](https://github.com/accenture)
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 - 📫 How to reach me:[shaikaftab02@gmail.com](mailto:shaikaftab02@gmail.com)
 - 😄 Pronouns: He/Him
   
